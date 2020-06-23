@@ -1,2 +1,2 @@
 # dynamical_evolution_bodies
-Dynalical evolution od Small bodies of the Solar System
+Dynamical evolution of Small bodies of the Solar System
